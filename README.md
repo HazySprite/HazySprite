@@ -42,7 +42,7 @@ Currently exploring **Flutter**, **Next.js**, **Docker**, and **Go (Hexagonal Ar
 
 <p align="center">
   <a href="https://app.daily.dev/prachayatatiyasamrit">
-    <img src="https://github.com/sprite5641/sprite5641/blob/master/devcard.svg" width="250" alt="Prachaya Tatiyasamrit's Dev Card" />
+    <img src="devcard.svg" width="250" alt="Prachaya Tatiyasamrit's Dev Card" />
   </a>
 </p>
 
