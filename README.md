@@ -1,27 +1,37 @@
 ## 👋 Hi, I'm Prachaya Tatiyasamrit
 
-**Full Stack Developer & DevOps Enthusiast** from 🇹🇭 Thailand — building scalable systems with clean code and great DX.
+**Full Stack Developer** from Chiang Mai, 🇹🇭 Thailand. I've spent 6 years shipping real-time platforms, restaurant POS systems and APIs that serve thousands of users. My strengths are **Go** and **Node.js** backends, **Vue/Nuxt** frontends and **Flutter**, running on **GCP** and **AWS**.
 
-- 🔭 Exploring **Flutter**, **Next.js**, **Docker** and **Go (Hexagonal Architecture)**
-- 💼 Startup background in POS, CRM and AI ecosystems
-- 🌱 Always learning, experimenting and sharing in open source
-- 💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> 💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ### 🛠 Tech Stack
 
-- **Languages:** TypeScript, Go, JavaScript, Dart, C#
-- **Frontend:** Vue, Nuxt, React, Svelte, Flutter
-- **Backend:** Express, NestJS, tRPC, Go Fiber, ASP.NET
-- **Data:** PostgreSQL, MongoDB, Redis, Kysely, Drizzle ORM
-- **DevOps & Cloud:** Docker, Kubernetes, GCP, Jenkins, Grafana, Linux
-- **Design & QA:** Figma, Adobe XD, Cypress, Jest, Selenium
+- **Languages:** Go, TypeScript, JavaScript, Dart, C#
+- **Backend:** Node.js (Express, NestJS, tRPC), Go Fiber, ASP.NET · REST, gRPC, GraphQL, WebSockets, OAuth/JWT
+- **Frontend & Mobile:** Vue, Nuxt, React, Svelte, Flutter
+- **Data:** PostgreSQL, MongoDB, Redis, Firebase · Drizzle, Kysely
+- **Cloud & DevOps:** GCP, AWS, Docker, Kubernetes, Terraform, Jenkins, Grafana, CI/CD, Linux
+- **Testing & Design:** Jest, Cypress, Selenium, Figma, Adobe XD
+- **Practices:** Agile (Scrum), code review, automated testing
 
-### 🚀 Highlights
+### 💼 Experience
 
-- 🧠 **POS & CRM Ecosystem** — retail & loyalty systems for Thai SMEs
-- 📱 **Flutter POS App** — fast, simple restaurant POS
-- ☁️ **Go Fiber APIs** — Hexagonal Architecture built to scale
-- ⚙️ **CI/CD Pipelines** — Docker, Jenkins, GCP Cloud Run
+- **Full Stack Developer** · Infinity Code · *Sep 2022 – Present*: client web apps & APIs, Flutter tablet apps (incl. a restaurant POS), DB design, CI/CD, code review
+- **Backend Developer** · Paiduaykanmai · *Apr – Aug 2022*: real-time research data pipeline; **40% faster** data access through DB & server tuning
+- **Junior Backend Developer** · Infinity Code · *Dec 2020 – Mar 2022*: backend APIs; **30% less** server downtime through load optimization
+
+### 🚀 Projects
+
+- 👥 **HR Management** *(2026 – Present)*: employee records, payroll, clock-in/out and attendance reports
+- 🍽️ **Restaurant POS** *(2023 – Present)*: ordering, billing and inventory with thermal printers, cash drawers and payment gateways; Flutter tablet app syncs orders & stock in real time
+- 🎓 **Online Course Platform** *(2026)*: course management, payments, secure video streaming
+- 📅 **Booking System** *(2024 – 2025)*: booking & scheduling inside LINE LIFF
+- 🧰 **Daywork** *(2022)*: part/full-time job matching with posting, search & apply, real-time employer–worker chat, application tracking
+
+### 🎓 Education
+
+- **Information Technology**, Lampang Rajabhat University *(2016 – 2020)*
+- **Electronics**, Lampang Polytechnic College *(2013 – 2016)*
 
 ### ✍️ Writing
 
@@ -30,7 +40,7 @@ Go Hexagonal Architecture · Clean Architecture for Flutter POS · Docker Compos
 <p align="center">
   <a href="https://app.daily.dev/prachayatatiyasamrit"><img src="devcard.svg" width="250" alt="Prachaya Tatiyasamrit's Dev Card" /></a>
   <br/><br/>
-  <a href="https://linkedin.com/in/prachaya-tatiyasamrit-6689941b0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/prachaya-tatiyasamrit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
   <br/>
   💬 Let's build something amazing together!
 </p>
