@@ -1,16 +1,16 @@
 ## 👋 Hi, I'm Prachaya Tatiyasamrit
 
-**Full Stack Developer** from Chiang Mai, 🇹🇭 Thailand. I've spent 6 years shipping real-time platforms, restaurant POS systems and APIs that serve thousands of users. My strengths are **Go** and **Node.js** backends, **Vue/Nuxt** frontends and **Flutter**, running on **GCP** and **AWS**.
+**Full Stack Developer** from Chiang Mai, 🇹🇭 Thailand. I've spent 6 years shipping real-time platforms, restaurant POS systems and APIs that serve thousands of users. My strengths are **Go** and **Node.js** backends, **Vue** frontends and **Flutter**, running on **GCP** and **AWS**.
 
 > 💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ### 🛠 Tech Stack
 
 - **Languages:** Go, TypeScript, JavaScript, Dart, C#
-- **Backend:** Node.js (Express, NestJS, tRPC), Go Fiber, ASP.NET · REST, gRPC, GraphQL, WebSockets, OAuth/JWT
-- **Frontend & Mobile:** Vue, Nuxt, React, Svelte, Flutter
-- **Data:** PostgreSQL, MongoDB, Redis, Firebase · Drizzle, Kysely
-- **Cloud & DevOps:** GCP, AWS, Docker, Kubernetes, Terraform, Jenkins, Grafana, CI/CD, Linux
+- **Backend:** Go, Node.js, ASP.NET · REST, gRPC, GraphQL, WebSockets, OAuth/JWT
+- **Frontend & Mobile:** Vue, React, Flutter
+- **Data:** PostgreSQL, MongoDB, Redis, Firebase
+- **Cloud & DevOps:** GCP, AWS, Docker, Terraform, CI/CD, Linux
 - **Testing & Design:** Jest, Cypress, Selenium, Figma, Adobe XD
 - **Practices:** Agile (Scrum), code review, automated testing
 
