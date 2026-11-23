@@ -20,19 +20,6 @@
 - **Backend Developer** · Paiduaykanmai · *Apr – Aug 2022*: real-time research data pipeline; **40% faster** data access through DB & server tuning
 - **Junior Backend Developer** · Infinity Code · *Dec 2020 – Mar 2022*: backend APIs; **30% less** server downtime through load optimization
 
-### 🚀 Projects
-
-- 👥 **HR Management** *(2026 – Present)*: employee records, payroll, clock-in/out and attendance reports
-- 🍽️ **Restaurant POS** *(2023 – Present)*: ordering, billing and inventory with thermal printers, cash drawers and payment gateways; Flutter tablet app syncs orders & stock in real time
-- 🎓 **Online Course Platform** *(2026)*: course management, payments, secure video streaming
-- 📅 **Booking System** *(2024 – 2025)*: booking & scheduling inside LINE LIFF
-- 🧰 **Daywork** *(2022)*: part/full-time job matching with posting, search & apply, real-time employer–worker chat, application tracking
-
-### 🎓 Education
-
-- **Information Technology**, Lampang Rajabhat University *(2016 – 2020)*
-- **Electronics**, Lampang Polytechnic College *(2013 – 2016)*
-
 ### ✍️ Writing
 
 Go Hexagonal Architecture · Clean Architecture for Flutter POS · Docker Compose → Cloud Run · Multi-agent dev workflows with Claude Code + Zen MCP
